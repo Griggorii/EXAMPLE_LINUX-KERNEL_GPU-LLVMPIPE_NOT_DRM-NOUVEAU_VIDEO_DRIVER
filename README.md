@@ -1,7 +1,7 @@
 # EXAMPLE_LINUX-KERNEL_GPU-LLVMPIPE_NOT_DRM-NOUVEAU_VIDEO_DRIVER
 GPU , LINUX , KERNEL , EXAMPLE , COMPOSITOR , LLVMPIPE X11 , NOUVEAU WAYLAND DRM
 
-Griggorii is not a theoretical teacher
+Griggorii is not a theoretical teacher only real, not fictional technologies
 
                              LLVMPIPE GPU compositor X11 dependency libLLVM-V?
 
