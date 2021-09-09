@@ -3,7 +3,7 @@ GPU , LINUX , KERNEL , EXAMPLE , COMPOSITOR , LLVMPIPE X11 , NOUVEAU WAYLAND DRM
 
 Griggorii is not a theoretical teacher
 
-                                                     LLVMPIPE GPU compositor X11 dependency 
+                             LLVMPIPE GPU compositor X11 dependency 
 
 Example dependency V9 /usr/lib/x86_64-linux-gnu/libLLVM-9.so
 
@@ -16,7 +16,7 @@ Example dependency V12 /usr/lib/x86_64-linux-gnu/libLLVM-12.so
 
 GPU NOTEBOOK NVIDIA OPTIMUS FREE NOT NOUVEAU VIDEO DRIVER:LLVMPIPE GPU: llvmpipe (LLVM 12.0.0, 256 bits)
 
-                                                   NOUVEAU/intel GPU compositor Wayland
+                             NOUVEAU/intel GPU compositor Wayland
 
 Example dependency /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0 | links to libdrm_nouveau.so.2.0.0 /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2
 
