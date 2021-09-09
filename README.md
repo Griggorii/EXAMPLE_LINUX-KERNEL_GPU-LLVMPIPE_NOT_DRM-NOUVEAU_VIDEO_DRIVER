@@ -3,7 +3,7 @@ GPU , LINUX , KERNEL , EXAMPLE , COMPOSITOR , LLVMPIPE X11 , NOUVEAU WAYLAND DRM
 
 Griggorii is not a theoretical teacher
 
-                             LLVMPIPE GPU compositor X11 dependency V?
+                             LLVMPIPE GPU compositor X11 dependency libLLVM-V?
 
 Example dependency V9 /usr/lib/x86_64-linux-gnu/libLLVM-9.so
 
