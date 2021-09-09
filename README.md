@@ -16,7 +16,7 @@ Example dependency V12 /usr/lib/x86_64-linux-gnu/libLLVM-12.so
 
 GPU NOTEBOOK NVIDIA OPTIMUS FREE NOT NOUVEAU VIDEO DRIVER:LLVMPIPE GPU: llvmpipe (LLVM 12.0.0, 256 bits) 
 
-[url="https://github.com/Griggorii/EXAMPLE_LINUX-KERNEL_GPU-LLVMPIPE_NOT_DRM-NOUVEAU_VIDEO_DRIVER/blob/main/LLVMPIPE_GPU_X11_EXAMPLE.png"]GPU LLVMPIPE[/url]
+[url="https://github.com/Griggorii/EXAMPLE_LINUX-KERNEL_GPU-LLVMPIPE_NOT_DRM-NOUVEAU_VIDEO_DRIVER/blob/main/LLVMPIPE_GPU_X11_EXAMPLE.png"]GPU_LLVMPIPE[/url]
 
                              NOUVEAU/intel GPU compositor Wayland
 
