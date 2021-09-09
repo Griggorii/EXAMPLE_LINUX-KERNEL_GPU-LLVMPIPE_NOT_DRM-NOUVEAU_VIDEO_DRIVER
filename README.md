@@ -21,3 +21,5 @@ GPU NOTEBOOK NVIDIA OPTIMUS FREE NOT NOUVEAU VIDEO DRIVER:LLVMPIPE GPU: llvmpipe
 Example dependency /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0 | links to libdrm_nouveau.so.2.0.0 /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2
 
 DEFAULT GPU NOTEBOOK NVIDIA OPTIMUS FREE NVIDIA ALTERNATIVE NOUVEAU VIDEO DRIVER: NOUVEAU/INTEL GPU: NVD7 / Intel® HD Graphics 3000 (SNB GT2)
+
+Kernel experiment install check https://github.com/Griggorii/EXAMPLE_LINUX-KERNEL_GPU-LLVMPIPE_NOT_DRM-NOUVEAU_VIDEO_DRIVER/releases/tag/LLVMPIPE_LINUX_KERNEL
